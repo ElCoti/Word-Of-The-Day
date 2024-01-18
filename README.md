@@ -1,7 +1,7 @@
 # Word Of The Day
 Scriptable Word of the Day Widget, showing you a different word every day
 
-![](https://github.com/ElCoti/RandomWOTD/blob/c19af6c6b062e6c9b7273c3343667eb4b0024e22/MockupWOTD.png)
+![](https://github.com/ElCoti/RandomWOTD/blob/8c89d445be8fe0f44000077becb170f7289794fc/MockupWOTD.png)
 
 # How to install
 1. Download Scriptable from the App Store.
